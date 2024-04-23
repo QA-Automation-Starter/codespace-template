@@ -1,5 +1,8 @@
 {
-    "postCreateCommand": "java -version",
+    "postCreateCommand": [
+        "md foo",
+        "java -version"
+    ],
     "customizations": {
         "codespaces": {
             "openFiles": [
