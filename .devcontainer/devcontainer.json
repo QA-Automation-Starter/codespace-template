@@ -1,0 +1,14 @@
+{
+    "postCreateCommand": "java -version",
+    "customizations": {
+        "codespaces": {
+            "openFiles": [
+                "README.md"
+            ]
+        },
+        "vscode": {
+            "settings": {},
+            "extensions": []
+        }
+    }
+}
