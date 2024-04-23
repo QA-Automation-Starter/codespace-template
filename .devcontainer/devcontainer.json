@@ -6,7 +6,8 @@
           "version": "11",
           "installMaven": "true",
           "installGradle": "false"
-        },
+        }
+    },
     "secrets": {
       "NAME_OF_SECRET_1": {
         "description": "This is the description of the secret.",
